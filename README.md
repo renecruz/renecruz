@@ -5,7 +5,7 @@
 
 ## I'm a Developer, and Teacher!!
 
-- 🧑🏻‍🏫 I'm teacher @ UAEMex: [UAEMex!][school]!
+- 🧑🏻‍🏫 I'm teacher @ University: [UAEMex][school]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
