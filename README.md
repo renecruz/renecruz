@@ -83,7 +83,7 @@
 </details>
 
 [website]: https://ditamex.com
-[school]: http://uaemex.mx
+[school]: https://www.uaemex.mx/
 [twitter]: https://twitter.com/renecruzflores
 [youtube]: https://youtube.com/renecruzflores
 [instagram]: https://instagram.com/renecruzflores
