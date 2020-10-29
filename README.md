@@ -5,7 +5,7 @@
 
 ## I'm a Developer, and Teacher!!
 
-<!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
+- 🧑🏻‍🏫 I'm teacher @ UAEMex: [UAEMex!][school]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -83,7 +83,7 @@
 </details>
 
 [website]: https://ditamex.com
-[course]: http://uaemex.mx
+[school]: http://uaemex.mx
 [twitter]: https://twitter.com/renecruzflores
 [youtube]: https://youtube.com/renecruzflores
 [instagram]: https://instagram.com/renecruzflores
