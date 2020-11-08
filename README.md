@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Herencia Simple, Selectiva, Múltiple y Virtual](https://www.youtube.com/watch?v=qDcS-EiUDvs)
+- [Clases Abstractas e Interfaces](https://www.youtube.com/watch?v=5nS1KxIO-H0)
 - [Configurar Terminal con UTF-8 en Visual Studio Code](https://www.youtube.com/watch?v=UVb6E-CSAZA)
 - [Manejo de Excepciones](https://www.youtube.com/watch?v=Wnn6RZ4opfA)
 - [Herencia en POO](https://www.youtube.com/watch?v=yqcC7EC4P2k)
-- [Relaciones entre clases (POO)](https://www.youtube.com/watch?v=jl-zBNPn9DU)
-- [Atributos y Métodos de Clase (Estáticos)](https://www.youtube.com/watch?v=iGhoA223RWY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/renecruzflores)
