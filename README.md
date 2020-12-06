@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Implementación de Interfaz Gráfica de Usuario (GUI)](https://www.youtube.com/watch?v=ry38fOBjV9M)
+- [El patrón de diseño: Observer](https://www.youtube.com/watch?v=EDIO4ct1IOs)
 - [Construcción de Interfaz Gráfica de Usuario usando Swing (Java)](https://www.youtube.com/watch?v=LkcoqeceQBU)
 - [El Paradigma Orientado a Eventos](https://www.youtube.com/watch?v=If8Rh9Ed6zI)
 - [Persistencia de Objetos y Alternativas de Persistencia](https://www.youtube.com/watch?v=GBXsh5WuXNA)
-- [Herencia Simple, Selectiva, Múltiple y Virtual](https://www.youtube.com/watch?v=qDcS-EiUDvs)
-- [Clases Abstractas e Interfaces](https://www.youtube.com/watch?v=5nS1KxIO-H0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/renecruzflores)
