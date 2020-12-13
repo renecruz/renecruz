@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [GUI, persistencia de objetos usando SQLite y el patrón de diseño DAO](https://www.youtube.com/watch?v=_lVjeP9JMzY)
 - [Implementación de Interfaz Gráfica de Usuario (GUI)](https://www.youtube.com/watch?v=ry38fOBjV9M)
 - [El patrón de diseño: Observer](https://www.youtube.com/watch?v=EDIO4ct1IOs)
 - [Construcción de Interfaz Gráfica de Usuario usando Swing (Java)](https://www.youtube.com/watch?v=LkcoqeceQBU)
 - [El Paradigma Orientado a Eventos](https://www.youtube.com/watch?v=If8Rh9Ed6zI)
-- [Persistencia de Objetos y Alternativas de Persistencia](https://www.youtube.com/watch?v=GBXsh5WuXNA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/renecruzflores)
