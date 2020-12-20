@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Configurar el proyecto "Punto de Venta" en NetBeans 12](https://www.youtube.com/watch?v=kh1j_JG2WLk)
 - [GUI, persistencia de objetos usando SQLite y el patrón de diseño DAO](https://www.youtube.com/watch?v=_lVjeP9JMzY)
 - [Implementación de Interfaz Gráfica de Usuario (GUI)](https://www.youtube.com/watch?v=ry38fOBjV9M)
 - [El patrón de diseño: Observer](https://www.youtube.com/watch?v=EDIO4ct1IOs)
 - [Construcción de Interfaz Gráfica de Usuario usando Swing (Java)](https://www.youtube.com/watch?v=LkcoqeceQBU)
-- [El Paradigma Orientado a Eventos](https://www.youtube.com/watch?v=If8Rh9Ed6zI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/renecruzflores)
