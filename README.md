@@ -11,9 +11,9 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to shot camera and play drums
 
-### Spotify Playing 🎧
+### Spotify  🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="René Spotify Playing" width="350" />](https://open.spotify.com/playlist/5H83Ekaw7BIREyTVPvgoTJ)
+https://open.spotify.com/user/1277270950?si=669cb03596564c38
 
 ### Connect with me:
 
