@@ -39,11 +39,11 @@ https://open.spotify.com/user/1277270950?si=669cb03596564c38
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [iOS 15+ Add Packages New Method](https://www.youtube.com/watch?v=bN0AkBT-C7M)
 - [Introducción al Uso de BlueJ v5.0 (2021)](https://www.youtube.com/watch?v=-xFv6bqQHpU)
 - [Instalación de OpenJDK 11 y Visual Studio Code en Windows 10](https://www.youtube.com/watch?v=alSguHvT6z0)
 - [Instalación de Python 3 en Windows 10](https://www.youtube.com/watch?v=3W-vUmNdgWs)
 - [Configurar el proyecto "Punto de Venta" en NetBeans 12](https://www.youtube.com/watch?v=kh1j_JG2WLk)
-- [GUI, persistencia de objetos usando SQLite y el patrón de diseño DAO](https://www.youtube.com/watch?v=_lVjeP9JMzY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/renecruzflores)
