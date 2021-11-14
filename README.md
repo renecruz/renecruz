@@ -40,10 +40,10 @@ https://open.spotify.com/user/1277270950?si=669cb03596564c38
 
 <!-- YOUTUBE:START -->
 - [iOS 15+ Add Packages New Method](https://www.youtube.com/watch?v=bN0AkBT-C7M)
-- [Introducción al Uso de BlueJ v5.0 (2021)](https://www.youtube.com/watch?v=-xFv6bqQHpU)
+- [Introducción al Uso de BlueJ v5.0 &lpar;2021&rpar;](https://www.youtube.com/watch?v=-xFv6bqQHpU)
 - [Instalación de OpenJDK 11 y Visual Studio Code en Windows 10](https://www.youtube.com/watch?v=alSguHvT6z0)
 - [Instalación de Python 3 en Windows 10](https://www.youtube.com/watch?v=3W-vUmNdgWs)
-- [Configurar el proyecto "Punto de Venta" en NetBeans 12](https://www.youtube.com/watch?v=kh1j_JG2WLk)
+- [Configurar el proyecto &quot;Punto de Venta&quot; en NetBeans 12](https://www.youtube.com/watch?v=kh1j_JG2WLk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/renecruzflores)
