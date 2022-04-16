@@ -50,7 +50,7 @@ https://open.spotify.com/user/1277270950?si=669cb03596564c38
 
 ---
 
-[website]: https://ditamex.com
+[website]: https://kueski.com
 [school]: https://www.uaemex.mx/
 [twitter]: https://twitter.com/renecruzflores
 [youtube]: https://youtube.com/renecruzflores
