@@ -4,7 +4,6 @@
 
 ## I'm a Developer, and Teacher!!
 
-- 🧑🏻 Since november 2021, I'm Product Manager @ [Kueski][website]!
 - 🧑🏻‍🏫 I'm teacher @ University: [UAEMex][school]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
