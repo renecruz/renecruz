@@ -1,6 +1,5 @@
-### Hi there, I'm René - [kueski][website] 👋
+### Hi there, I'm René 👋
 
-[![Website](https://img.shields.io/website?label=kueski.com&style=for-the-badge&url=https://kueski.com)](https://kueski.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/renecruzflores?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/renecruz&screen_name=renecruzflores)
 
 ## I'm a Developer, and Teacher!!
